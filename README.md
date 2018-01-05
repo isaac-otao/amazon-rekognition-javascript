@@ -1,0 +1,2 @@
+# amazon-rekognition-javascript
+Amazon Rekognitionを使ってWebカメラとJavascriptで個人認証
